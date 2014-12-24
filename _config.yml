@@ -3,8 +3,8 @@ title:       learningswift
 email:       learnswift@yahoo.com 
 author:      Rohit G.
 description: "Let's learn swift together and create amazing apps!"
-baseurl:     "/learningswift"
-url:         "http://learningswift.github.io/"
+baseurl:     "/learningswift/tutorial"
+url:         "https://github.com/learningswift/tutorial"
 
 # Google analytics
 google_analytics:
